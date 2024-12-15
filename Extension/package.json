@@ -1481,7 +1481,7 @@
     "@types/yauzl": "^2.9.1",
     "async-child-process": "^1.1.1",
     "await-notify": "^1.0.1",
-    "gulp": "^4.0.2",
+    "gulp": "^5.0.0",
     "gulp-env": "^0.4.0",
     "gulp-mocha": "^6.0.0",
     "gulp-tslint": "^8.1.4",
@@ -1492,8 +1492,8 @@
     "typescript": "^3.5.2",
     "vrsource-tslint-rules": "^6.0.0",
     "vscode": "^1.1.35",
-    "webpack": "^4.35.2",
-    "webpack-cli": "^3.3.5"
+    "webpack": "^5.97.1",
+    "webpack-cli": "^5.1.4"
   },
   "dependencies": {
     "escape-string-regexp": "^2.0.0",
